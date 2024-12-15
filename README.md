@@ -18,4 +18,7 @@ This project provides an upgrade solution for the **EasyThreed K7 3D printer** b
 
 ### Requirements
 
-- **EasyThreed K7** 3D printer [Buy here](https://example.com/lcd-display)  
+- **EasyThreed K7 3D printer:** [Search for EasyThreed K7 on Google](https://www.google.com/search?q=buy+EasyThreed+K7)
+- **RepRapDiscount Full Graphic Smart Controller:** [Search for this RepRap LCD on Google](https://www.google.com/search?q=buy+RepRapDiscount+Full+Graphic+Smart+Controller)
+![EasyThreed K7 Display](https://i.ibb.co/wWxT63x/Rep-Rap-Discount-Full-Graphic-Smart-Controller.jpg)
+<img src="https://github.com/favicon.ico" width="48">

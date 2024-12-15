@@ -102,4 +102,14 @@ Follow these steps to upgrade your EasyThreed K7 with the new display:
 
 ### Recovery and Original Firmware:
 
-- If something goes wrong or you wish to revert to the original firmware, you can download the official firmware for the EasyThreed K7 printer from [this link](insert link here). Be sure to follow the manufacturer's instructions for installation to avoid any issues.
+- If something goes **wrong** or you wish to **revert** to the original firmware, you can **download** the official firmware for the **EasyThreed K7** printer from [this repository](https://github.com/schmttc/EasyThreeD-K7-STM32/tree/master/config/EasyThreeD/ET4000PLUS/K7). 
+- Be sure to follow the **manufacturer's instructions** for installation to **avoid issues**.
+
+### Credits
+This project was inspired by work from the following repositories and designs:
+
+- [thiagoeasy/MARLIN-ET-4000PLUS-PARA-LCD](https://github.com/thiagoeasy/MARLIN-ET-4000PLUS-PARA-LCD)
+- [BIGTREETECH-SKR-mini-E3 Issue #159](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/issues/159)
+- [RepRap box by Professional3D (Thingiverse)](https://www.thingiverse.com/thing:861091)
+
+Special thanks to these creators and contributors for their work, which provided valuable inspiration for this project.

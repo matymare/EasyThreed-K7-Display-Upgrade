@@ -1,5 +1,7 @@
 # EasyThreed-K7-Display-Upgrade
 
+<center><img src="https://i.ibb.co/FK8Bp2V/Easy-Threed-K7-with-LCD.jpg" alt="MicroSD Card 4GB" width="150"/></center>
+
 ## This is a guide to adding an LCD display to the EasyThreed K7 printer.
 
 ### Description

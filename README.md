@@ -24,7 +24,7 @@ This project provides an upgrade solution for the **EasyThreed K7 3D printer** b
 | **EasyThreed K7 3D Printer** | [Search for EasyThreed K7 on Google](https://www.google.com/search?q=buy+EasyThreed+K7) | <img src="https://i.ibb.co/5xrZpV7/Easy-Threed-K7.jpg" alt="EasyThreed K7" width="75"/> |
 | **RepRapDiscount Full Graphic Smart Controller** | [Search for this RepRap LCD on Google](https://www.google.com/search?q=buy+RepRapDiscount+Full+Graphic+Smart+Controller) | <img src="https://i.ibb.co/7jLRqm6/Rep-Rap-Discount-Full-Graphic-Smart-Controller.jpg" alt="EasyThreed K7 Display" width="75"/> |
 | **12x F-F DuPont Wires** | [Search for F-F DuPont Wires on Google](https://www.google.com/search?q=buy+F-F+DuPont+Wires) | <img src="https://i.ibb.co/6RcWCrQ/F-F-Du-Pont-Wires.jpg" alt="F-F DuPont Wires" width="75"/> |
-| **Micro SD Card (I used 4GB) *- for upload the update file to the printer*** | [Search for MicroSD Card 4GB on Google](https://www.google.com/search?q=buy+MicroSD+Card+4GB) | <img src="https://i.ibb.co/k9tsPNY/micro-SD-card-4-GB.jpg" alt="MicroSD Card 4GB" width="75"/> |
+| **Micro SD Card (I used 4GB)** *- for upload the update file to the printer* | [Search for MicroSD Card 4GB on Google](https://www.google.com/search?q=buy+MicroSD+Card+4GB) | <img src="https://i.ibb.co/k9tsPNY/micro-SD-card-4-GB.jpg" alt="MicroSD Card 4GB" width="75"/> |
 | **8x 16mm M3 bolts and nuts** | [Search for 16mm M3 bolts and nuts on Google](https://www.google.com/search?q=buy+16mm+M3+bolts+and+nuts) | <img src="https://i.ibb.co/jLrYy0C/M3-16mm-bolt-and-nut.jpg" alt="16mm Bolt and Nuts" width="75"/> |
 
 ### Additional Requirements

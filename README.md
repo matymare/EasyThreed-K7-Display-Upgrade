@@ -30,6 +30,7 @@ This project provides an upgrade solution for the **EasyThreed K7 3D printer** b
 
 - **SD card support:** The display does not support SD card slot functionality. Therefore, you will need to continue using the original SD card slot on the printer for file management and printing.
 - **Display case weakness:** The display case has relatively thin walls. It's recommended to reinforce them with glue to improve durability and prevent potential damage during use.
+- **Settings reset after powering off:** Unfortunately, any settings adjusted in the menu will be lost upon turning off the printer.
 
 > [!NOTE]
 > Apologies for not including detailed photos of the display attachment process; I hope the provided instructions and diagrams are clear enough to guide you through the installation.
@@ -104,6 +105,10 @@ Follow these steps to upgrade your EasyThreed K7 with the new display:
 
 - If something goes **wrong** or you wish to **revert** to the original firmware, you can **download** the official firmware for the **EasyThreed K7** printer from [this repository](https://github.com/schmttc/EasyThreeD-K7-STM32/tree/master/config/EasyThreeD/ET4000PLUS/K7). 
 - Be sure to follow the **manufacturer's instructions** for installation to **avoid issues**.
+
+### Printing Tips
+- **Recommended Speed:** For optimal results, print at around **50% speed**. This can be easily adjusted by turning the encoder on the main screen of the LCD. Printing too fast may lead to **layer shifting** or other print quality issues.
+- **Bed adhesion:** Ensure the print bed is **clean** and **properly leveled**. Consider using a **glue stick**.
 
 ### Credits
 This project was inspired by work from the following repositories and designs:

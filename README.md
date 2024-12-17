@@ -111,6 +111,7 @@ Follow these steps to upgrade your EasyThreed K7 with the new display:
 - **Bed adhesion:** Ensure the print bed is **clean** and **properly leveled**. Consider using a **glue stick**.
 
 ### Credits
+
 This project was inspired by work from the following repositories and designs:
 
 - [thiagoeasy/MARLIN-ET-4000PLUS-PARA-LCD](https://github.com/thiagoeasy/MARLIN-ET-4000PLUS-PARA-LCD)
@@ -118,3 +119,9 @@ This project was inspired by work from the following repositories and designs:
 - [RepRap box by Professional3D (Thingiverse)](https://www.thingiverse.com/thing:861091)
 
 Special thanks to these creators and contributors for their work, which provided valuable inspiration for this project.
+
+### License
+
+Marlin Firmware: https://github.com/MarlinFirmware/Marlin
+
+Marlin is published under the [GPL License](https://github.com/matymare/EasyThreed-K7-Display-Upgrade/blob/main/LICENSE) because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.

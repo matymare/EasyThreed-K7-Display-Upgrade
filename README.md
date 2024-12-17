@@ -101,14 +101,14 @@ Follow these steps to upgrade your EasyThreed K7 with the new display:
 > [!NOTE]
 > I want to emphasize once again that some of the solutions I have chosen may not be the ideal choice for everyone, but I selected them based on my own preferences and experiences. If they don't suit you, feel free to adjust them according to your needs.
 
+### Printing Tips
+- **Recommended Speed:** For optimal results, print at around **50% speed**. This can be easily adjusted by turning the encoder on the main screen of the LCD. Printing too fast may lead to **layer shifting** or other print quality issues.
+- **Bed adhesion:** Ensure the print bed is **clean** and **properly leveled**. Consider using a **glue stick**.
+
 ### Recovery and Original Firmware:
 
 - If something goes **wrong** or you wish to **revert** to the original firmware, you can **download** the official firmware for the **EasyThreed K7** printer from [this repository](https://github.com/schmttc/EasyThreeD-K7-STM32/tree/master/config/EasyThreeD/ET4000PLUS/K7). 
 - Be sure to follow the **manufacturer's instructions** for installation to **avoid issues**.
-
-### Printing Tips
-- **Recommended Speed:** For optimal results, print at around **50% speed**. This can be easily adjusted by turning the encoder on the main screen of the LCD. Printing too fast may lead to **layer shifting** or other print quality issues.
-- **Bed adhesion:** Ensure the print bed is **clean** and **properly leveled**. Consider using a **glue stick**.
 
 ### Credits
 

@@ -2,6 +2,8 @@
 
 <img src="https://i.ibb.co/YcPMHd1/Easy-Threed-K7-with-LCD-WM.jpg" alt="MicroSD Card 4GB" width="150"/>
 
+Video review: https://youtube.com/shorts/lMk4L2QG4Xw
+
 ## This is a guide to adding an LCD display to the EasyThreed K7 printer.
 
 > [!IMPORTANT]

@@ -104,7 +104,6 @@ Follow these steps to upgrade your EasyThreed K7 with the new display:
 > I want to emphasize once again that some of the solutions I have chosen may not be the ideal choice for everyone, but I selected them based on my own preferences and experiences. If they don't suit you, feel free to adjust them according to your needs.
 
 ### Printing Tips
-- **Recommended Speed:** For optimal results, print at around **50% speed**. This can be easily adjusted by turning the encoder on the main screen of the LCD. Printing too fast may lead to **layer shifting** or other print quality issues.
 - **Bed adhesion:** Ensure the print bed is **clean** and **properly leveled**. Consider using a **glue stick**.
 
 ### Recovery and Original Firmware:
